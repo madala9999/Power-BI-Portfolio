@@ -3,6 +3,14 @@
 ## Overview
 An interactive Power BI dashboard analysing fictional NZ sales data across products, regions, and customers. Built to demonstrate core BI Analyst skills including data modelling, DAX measures, and professional report design.
 
+## Dashboard Preview
+
+### Page 1 – Sales Overview
+![Sales Overview](page1_overview.jpeg)
+
+### Page 2 – Customer Analysis
+![Customer Analysis](page2_customers.jpeg)
+
 ## Dashboard Pages
 
 ### Page 1 – Sales Overview
