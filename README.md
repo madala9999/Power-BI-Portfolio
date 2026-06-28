@@ -9,7 +9,7 @@ An interactive Power BI dashboard analysing fictional NZ sales data across produ
 ![Sales Overview](page1_overview.jpeg)
 
 ### Page 2 – Customer Analysis
-![Customer Analysis](page2_customers.jpeg)
+![Customer Analysis](page2_customers.png)
 
 ## Dashboard Pages
 
